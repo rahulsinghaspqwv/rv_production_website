@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#Ranish Vashud - rv_production_website (Business Website Template).
+This is a fully-fledged Business website created with Node.JS, React, and Tailwind CSS. This project will be updated over the period
 
-## Getting Started
+NOTE :- # ⚠️ Important Notice
+    This project has been made publicly available to help developers learn modern web development, production architecture, and industry best practices.
 
-First, run the development server:
+You can
+- Learn from the source code.
+- Download and study the complete project.
+- Build your own projects using this repository.
+- Improve your development skills.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+However, you must **NOT** use this project to:
+- Perform unauthorized access, hacking, or attacks against any website, server, or system.
+- Exploit security weaknesses in this project or any derivative work.
+- Use any part of this repository for illegal, malicious, or unethical activities.
+- Misrepresent this project as your own original work.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This repository is shared in good faith for educational purposes only. The author accepts **no responsibility or liability** for any damage, loss, illegal activity, or misuse resulting from the use or modification of this source code.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+By using this repository, you agree that you are solely responsible for how you use the code and that you will comply with all applicable laws and regulations.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you for respecting the effort behind this project and using it responsibly. 
